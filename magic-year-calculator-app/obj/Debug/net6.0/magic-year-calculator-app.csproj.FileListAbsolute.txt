@@ -1,0 +1,15 @@
+/Users/Stephanie.Chan/Documents/Code/Kata/f-magic-year-calculator/magic-year-calculator-app/bin/Debug/net6.0/magic-year-calculator-app
+/Users/Stephanie.Chan/Documents/Code/Kata/f-magic-year-calculator/magic-year-calculator-app/bin/Debug/net6.0/magic-year-calculator-app.deps.json
+/Users/Stephanie.Chan/Documents/Code/Kata/f-magic-year-calculator/magic-year-calculator-app/bin/Debug/net6.0/magic-year-calculator-app.runtimeconfig.json
+/Users/Stephanie.Chan/Documents/Code/Kata/f-magic-year-calculator/magic-year-calculator-app/bin/Debug/net6.0/magic-year-calculator-app.dll
+/Users/Stephanie.Chan/Documents/Code/Kata/f-magic-year-calculator/magic-year-calculator-app/bin/Debug/net6.0/magic-year-calculator-app.pdb
+/Users/Stephanie.Chan/Documents/Code/Kata/f-magic-year-calculator/magic-year-calculator-app/obj/Debug/net6.0/magic-year-calculator-app.csproj.AssemblyReference.cache
+/Users/Stephanie.Chan/Documents/Code/Kata/f-magic-year-calculator/magic-year-calculator-app/obj/Debug/net6.0/magic-year-calculator-app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Stephanie.Chan/Documents/Code/Kata/f-magic-year-calculator/magic-year-calculator-app/obj/Debug/net6.0/magic-year-calculator-app.AssemblyInfoInputs.cache
+/Users/Stephanie.Chan/Documents/Code/Kata/f-magic-year-calculator/magic-year-calculator-app/obj/Debug/net6.0/magic-year-calculator-app.AssemblyInfo.cs
+/Users/Stephanie.Chan/Documents/Code/Kata/f-magic-year-calculator/magic-year-calculator-app/obj/Debug/net6.0/magic-year-calculator-app.csproj.CoreCompileInputs.cache
+/Users/Stephanie.Chan/Documents/Code/Kata/f-magic-year-calculator/magic-year-calculator-app/obj/Debug/net6.0/magic-year-calculator-app.dll
+/Users/Stephanie.Chan/Documents/Code/Kata/f-magic-year-calculator/magic-year-calculator-app/obj/Debug/net6.0/refint/magic-year-calculator-app.dll
+/Users/Stephanie.Chan/Documents/Code/Kata/f-magic-year-calculator/magic-year-calculator-app/obj/Debug/net6.0/magic-year-calculator-app.pdb
+/Users/Stephanie.Chan/Documents/Code/Kata/f-magic-year-calculator/magic-year-calculator-app/obj/Debug/net6.0/magic-year-calculator-app.genruntimeconfig.cache
+/Users/Stephanie.Chan/Documents/Code/Kata/f-magic-year-calculator/magic-year-calculator-app/obj/Debug/net6.0/ref/magic-year-calculator-app.dll
